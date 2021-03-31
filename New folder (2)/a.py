@@ -7,3 +7,4 @@ phi=np.pi/6
 xt=A*np.cos(omega*t-phi)
 plt.plot(t,xt)
 plt.show()
+print("Hello world")
